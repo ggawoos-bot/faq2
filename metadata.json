@@ -1,0 +1,5 @@
+{
+  "name": "Firestore FAQ System",
+  "description": "A dynamic FAQ system built with React, TypeScript, and Tailwind CSS, backed by Firestore. It provides a real-time searchable interface for users and a comprehensive admin panel for content management, including CRUD operations and CSV bulk data handling.",
+  "requestFramePermissions": []
+}
